@@ -212,10 +212,8 @@ README.md
 Round1.ipynb  
 Round2_Using_all_round1_config.ipynb  
 search_results_3fold.csv  
-submission_round1.csv  
 submission_Test.csv  
-test_features.csv  
-spectral_graffiti_headley_recovered.csv  
+test_features.csv 
 
 ---
 
