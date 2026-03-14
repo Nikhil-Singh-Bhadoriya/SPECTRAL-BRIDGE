@@ -110,6 +110,8 @@ Predicted Signal Values
 
 # Training Strategy
 
+Dataset =  https://www.kaggle.com/datasets/fda137/spectral-graffiti
+
 Training pipeline:
 
 Load dataset  
